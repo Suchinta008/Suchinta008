@@ -1,6 +1,6 @@
 ### Hi there 👋
 # Suchinta 
 - 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning Squaring 1
+- 🌱 I’m currently learning Squaring the world of Web
 - 👯 I’m looking to collaborate on creative projects 
-- 📫 How to reach me: suchinta007@gmail.com
+- 📫 How to reach me: suchintachanda@gmail.com
